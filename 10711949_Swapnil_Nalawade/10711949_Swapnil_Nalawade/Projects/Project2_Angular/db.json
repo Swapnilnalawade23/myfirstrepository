@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Sachin",
+      "lastName": "Tendulkar",
+      "phoneNumber": "9874563210"
+    },
+    {
+      "id": 2,
+      "phoneNumber": "1234567890",
+      "firstName": "Cristiano",
+      "lastName": "Ronaldo"
+    },
+    {
+      "id": 3,
+      "firstName": "Virat",
+      "lastName": "Kohli",
+      "phoneNumber": "9876543210"
+    },
+    {
+      "id": 4,
+      "firstName": "Rohit",
+      "lastName": "Sharma",
+      "phoneNumber": "4567891230"
+    },
+    {
+      "id": 5,
+      "firstName": "Rishabh",
+      "lastName": "Pant",
+      "phoneNumber": "236-567-6754"
+    },
+    {
+      "id": 6,
+      "firstName": "KL",
+      "lastName": "Rahul",
+      "phoneNumber": "9874563270"
+    }
+  ]
+}
